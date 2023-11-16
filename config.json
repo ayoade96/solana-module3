@@ -1,12 +1,12 @@
 {
-    "price": 0.01,
+    "price": 10,
     "number": 10,
     "symbol": "NB",
     "sellerFeeBasisPoints": 500,
     "gatekeeper": null,
-    "solTreasuryAccount": "YOUR_WALLET_ADDRESS",
-    "splTokenAccount": null,
-    "splToken": null,
+    "solTreasuryAccount": null,
+    "splTokenAccount": "CB71Pg5ku9nvVVXKTnCfzjuiE17uYqyZa44CnkbXXbzx",
+    "splToken": "H1nMNwyFfo5kN3fQYSgz8Zirofuqxiv2SzqFRi6iseEa",
     "goLiveDate": "2022-07-24T00:00:00Z",
     "endSettings": null,
     "whitelistMintSettings": null,
@@ -17,7 +17,7 @@
     "isMutable": true,
     "creators": [
     {
-      "address": "YOUR_WALLET_ADDRESS",
+      "address": "7F3XNZ2RJKTQfPNi1dfx7EPi8ZEeEzTpPaTygKPyW2yu",
       "share": 100
     }
   ]
